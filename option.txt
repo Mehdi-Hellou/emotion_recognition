@@ -1,0 +1,2 @@
+first model: adam(lr=0.001), image 139*139
+second model: adam(lr=0.0001), image 139*139
